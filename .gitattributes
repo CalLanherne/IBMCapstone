@@ -1,1 +1,4 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
+table2.xls filter=lfs diff=lfs merge=lfs -text
+populationbycountryofbirthandnationalityjan17todec17.xls filter=lfs diff=lfs merge=lfs -text
+Road-Accident-Safety-Data-Guide[[:space:]](1).xls filter=lfs diff=lfs merge=lfs -text
